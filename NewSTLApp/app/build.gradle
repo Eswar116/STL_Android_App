@@ -1,0 +1,91 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "com.essindia.stlapp"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 13
+        versionName "2.3"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        IN_L {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_In_L_42"
+            buildConfigField('String', "host", '"http://10.10.30.42:7101/mobapp_in_l/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "INV LIVE 42"
+        }
+        IN_T {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_In_T_42"
+            buildConfigField('String', "host", '"http://10.10.30.42:7101/mobapp_in_t/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "INV TEST 42"
+        }
+        /*STL LOCAL SERVER*/
+        WMS_T {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_T_42"
+            buildConfigField('String', "host", '"http://10.10.30.42:7101/mobapp_wms_t/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "WMS TEST 42"
+        }
+        /*Jonu STL SYSTEM*/
+        /*WMS_T{
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_T"
+            buildConfigField('String', "host", base_url)
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "WMS TEST"
+        }*/
+        WMS_L {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_L_42"   //Think 7 Server
+//            applicationId "com.essindia.stlapp_WMS_L_42_137"  // BOTH THINK && HCM SELECT FROM RADION BUTTON
+//            applicationId "com.essindia.stlapp_WMS_L_137" //HCM SERVER
+//            applicationId "com.essindia.stlapp_WMS_L_226" // Hydrabad server By  Anil
+//            buildConfigField('String', "host", '"http://10.10.30.42:7101/mobapp_wms_l/"')  //THINK 7 Server
+//            buildConfigField('String', "host", '"http://10.10.2.137:7003/mobapp_wms_l/"')  //HCM SERVER
+            buildConfigField('Boolean', "enableLogs", 'false')
+//            resValue "string", "app_name", "WMS LIVE 42"  //Think 7 Server
+            resValue "string", "app_name", "ESS STL MOBILE APP"  //Think 7 Server
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.google.code.gson:gson:2.8.7'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+    implementation 'com.android.support:cardview-v7:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.0-beta5'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation project(":DataCollectionLib")
+    implementation files('libs/BarcodeScanWrapper.jar')
+
+    implementation   'com.google.android.gms:play-services-vision:11.8.0'
+
+    implementation 'xyz.belvi.mobilevision:barcodescanner:2.0.3'
+    implementation ('eu.livotov.labs.android:CAMView:2.0.1@aar') {transitive=true}
+
+
+    implementation 'com.google.zxing:core:3.2.1'
+    implementation 'com.journeyapps:zxing-android-embedded:3.2.0@aar'
+    implementation 'me.dm7.barcodescanner:zxing:1.9'
+    implementation 'org.jetbrains:annotations:15.0'
+    implementation 'com.android.support:support-v4:26.1.0'
+
+
+}

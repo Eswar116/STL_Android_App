@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#ff7800</color>-->
+    <color name="colorPrimary">#DA251C</color>
+    <!--<color name="colorPrimaryDark">#e57e00</color>-->
+    <color name="colorPrimaryDark">#902827</color>
+    <color name="colorAccent">#DA251C</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="dashboard_color">#ffa500</color>
+    <color name="vibrate_colour">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="black">#000000</color>
+    <color name="green">#2DCA23  </color>
+    <color name="red_error_dialog">#cc3011</color>
+</resources>

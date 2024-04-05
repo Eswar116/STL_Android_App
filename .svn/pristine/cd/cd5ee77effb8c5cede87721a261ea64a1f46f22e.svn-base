@@ -1,0 +1,72 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
+    defaultConfig {
+        applicationId "com.essindia.stlapp"
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 8
+        versionName "1.7"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        IN_L {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_In_L"
+            buildConfigField('String', "host", '"http://132.132.5.215:7101/mobapp_in_l/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "INV LIVE"
+        }
+        IN_T {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_In_T"
+            buildConfigField('String', "host", '"http://132.132.5.215:7101/mobapp_in_t/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "INV TEST"
+        }
+        /*STL LOCAL SERVER*/
+        WMS_T {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_T"
+            buildConfigField('String', "host", '"http://132.132.5.215:7101/mobapp_wms_t/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "WMS TEST"
+        }
+        /*Jonu STL SYSTEM*/
+        /*WMS_T{
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_T"
+            buildConfigField('String', "host", base_url)
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "WMS TEST"
+        }*/
+        WMS_L {
+            flavorDimensions "default"
+            applicationId "com.essindia.stlapp_WMS_L"
+            buildConfigField('String', "host", '"http://132.132.5.215:7101/mobapp_wms_l/"')
+            buildConfigField('Boolean', "enableLogs", 'false')
+            resValue "string", "app_name", "WMS LIVE"
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+    implementation 'com.android.support:cardview-v7:26.1.0'
+    //implementation 'com.android.support.constraint:constraint-layout:1.0.0-beta5'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation project(":DataCollectionLib")
+    implementation files('libs\\BarcodeScanWrapper.jar')
+}

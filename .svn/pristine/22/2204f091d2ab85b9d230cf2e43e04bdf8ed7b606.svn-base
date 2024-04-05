@@ -1,0 +1,119 @@
+package com.essindia.stlapp.Bean;
+
+import android.os.Parcel;
+import android.os.Parcelable;
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Created by Administrator on 26-12-2016.
+ */
+
+public class InvoiceBean implements Parcelable {
+
+    @SerializedName("CUSTOMER_CODE")
+    @Expose
+    private String cUSTOMERCODE;
+    @SerializedName("CUSTOMER_NAME")
+    @Expose
+    private String cUSTOMERNAME;
+    @SerializedName("INVOICE_NO")
+    @Expose
+    private String iNVOICENO;
+    @SerializedName("ITEM")
+    @Expose
+    private List<ItemBean> iTEM = null;
+    @SerializedName("INVOICE_DATE")
+    @Expose
+    private String iNVOICEDATE;
+
+    public String getCUSTOMERCODE() {
+        return cUSTOMERCODE;
+    }
+
+    public void setCUSTOMERCODE(String cUSTOMERCODE) {
+        this.cUSTOMERCODE = cUSTOMERCODE;
+    }
+
+    public String getCUSTOMERNAME() {
+        return cUSTOMERNAME;
+    }
+
+    public void setCUSTOMERNAME(String cUSTOMERNAME) {
+        this.cUSTOMERNAME = cUSTOMERNAME;
+    }
+
+    public String getINVOICENO() {
+        return iNVOICENO;
+    }
+
+    public void setINVOICENO(String iNVOICENO) {
+        this.iNVOICENO = iNVOICENO;
+    }
+
+    public List<ItemBean> getITEM() {
+        return iTEM;
+    }
+
+    public void setITEM(List<ItemBean> iTEM) {
+        this.iTEM = iTEM;
+    }
+
+    public String getINVOICEDATE() {
+        return iNVOICEDATE;
+    }
+
+    public void setINVOICEDATE(String iNVOICEDATE) {
+        this.iNVOICEDATE = iNVOICEDATE;
+    }
+
+
+    protected InvoiceBean(Parcel in) {
+        cUSTOMERCODE = in.readString();
+        cUSTOMERNAME = in.readString();
+        iNVOICENO = in.readString();
+        if (in.readByte() == 0x01) {
+            iTEM = new ArrayList<ItemBean>();
+            in.readList(iTEM, ItemBean.class.getClassLoader());
+        } else {
+            iTEM = null;
+        }
+        iNVOICEDATE = in.readString();
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(cUSTOMERCODE);
+        dest.writeString(cUSTOMERNAME);
+        dest.writeString(iNVOICENO);
+        if (iTEM == null) {
+            dest.writeByte((byte) (0x00));
+        } else {
+            dest.writeByte((byte) (0x01));
+            dest.writeList(iTEM);
+        }
+        dest.writeString(iNVOICEDATE);
+    }
+
+    @SuppressWarnings("unused")
+    public static final Parcelable.Creator<InvoiceBean> CREATOR = new Parcelable.Creator<InvoiceBean>() {
+        @Override
+        public InvoiceBean createFromParcel(Parcel in) {
+            return new InvoiceBean(in);
+        }
+
+        @Override
+        public InvoiceBean[] newArray(int size) {
+            return new InvoiceBean[size];
+        }
+    };
+}

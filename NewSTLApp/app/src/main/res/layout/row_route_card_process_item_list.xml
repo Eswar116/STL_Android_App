@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        card_view:contentPadding="15dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp">
+
+            <RelativeLayout
+                android:id="@+id/rl_item_detail_cont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/cb_scan"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_route_no_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:text="@string/route_no"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_route_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_route_date_label"
+                    android:paddingTop="3dp"
+                    android:text="dfr434"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_route_date_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_route_no_label"
+                    android:paddingTop="3dp"
+                    android:text="@string/route_date"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_route_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_route_no_label"
+                    android:layout_toRightOf="@+id/tv_route_date_label"
+                    android:paddingTop="3dp"
+                    android:text="dfr434"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@id/rl_coil_info_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_item_detail_cont"
+                android:weightSum="2">
+
+                <TextView
+                    android:id="@+id/lbl_vc_product_code"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="3dp"
+                    android:text="VC Product Code: " />
+
+                <TextView
+                    android:id="@+id/tv_vc_product_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/lbl_vc_product_code"
+                    android:paddingBottom="3dp"
+                    android:text="" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_coil_info_1"
+                android:weightSum="2">
+
+                <TextView
+                    android:id="@+id/tv_vc_process_desc_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="3dp"
+                    android:text="VC Process Desc : " />
+
+                <TextView
+                    android:id="@+id/tv_vc_process_desc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_vc_process_desc_label"
+                    android:paddingBottom="3dp"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/tv_nu_ok_qty"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_vc_process_desc"
+                    android:text="Nu Ok Quantity" />
+
+                <TextView
+                    android:id="@+id/tv_nu_part_weight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_nu_ok_qty"
+                    android:text="Nu Part Weight" />
+
+                <TextView
+                    android:id="@+id/tv_virtual_bin_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_nu_part_weight"
+                    android:text="VC Virtual bin no." />
+
+                <TextView
+                    android:id="@+id/tv_actual_bin_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_virtual_bin_no"
+                    android:text="VC Actual bin no." />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

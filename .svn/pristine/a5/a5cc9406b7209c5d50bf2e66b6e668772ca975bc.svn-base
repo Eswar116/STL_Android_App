@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":7,"versionName":"1.6","enabled":true,"outputFile":"app-IN_L-debug.apk","fullName":"IN_LDebug","baseName":"IN_L-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.essindia.stlapp_In_L","split":"","minSdkVersion":"16"}}]

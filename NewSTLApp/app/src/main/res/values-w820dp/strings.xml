@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="dashboard">DashBoard</string>
+    <string name="grn_ver">GRN Verification</string>
+
+    <string name="err_msg_name">name field is empty</string>
+    <string name="err_msg_password">password field is empty</string>
+
+    <string name="err_name_credentials">name is incorrect </string>
+    <string name="err_password_credentials">password is incorrect</string>
+</resources>

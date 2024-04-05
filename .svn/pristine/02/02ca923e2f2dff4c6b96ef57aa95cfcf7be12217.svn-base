@@ -1,0 +1,2150 @@
+[
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_unload_shop_floor_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_unload_shop_floor_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\menu_dashboard.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_route_card_process.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_route_card_process.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-xhdpi-v4\\barcode_example_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_logout_white.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_logout_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_keyboard_arrow_right_black.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_iteam_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\iteam_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_dashboard_list_data.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\dashboard_list_data.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_grnverification_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_grnverification_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_shadow.9.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\shadow.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_load_shop_floor_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_load_shop_floor_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_issue_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_issue_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_grn_test.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\grn_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_load_shop_floor_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_load_shop_floor_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_pickup_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_pickup_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_unload_shop_floor_coillist.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_unload_shop_floor_coillist.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-anydpi-v21_ic_arrow_back_white_24dp.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-anydpi-v21\\ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_spinner_item.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_zoom_in.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_tooltip.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_loading_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_loading_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_avd_show_password.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_splash_background.jpg.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_splash_background.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_coil_issuing_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_coil_issuing_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_down_arrow.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_down_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_put_away_details.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_put_away_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_invoice_number_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\invoice_number_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_receiving_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_receiving_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_design_error.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ess_logo.jpg.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ess_logo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_stl.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\stl.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_pickup.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_pickup.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_issue_mrs_no_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_issue_mrs_no_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_qrcode_logo.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_qrcode_logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_pickup_details.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_pickup_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_receiving_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_receiving_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_issue_item_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_issue_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_pu_loc_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_pu_loc_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_grn.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_grn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_receipt_tran_no.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_receipt_tran_no.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-mdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_sequential.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-xxxhdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_up_arrow.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_up_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_put_away_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_put_away_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-xhdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_stl_logo.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_stl_logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_shake_login.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\shake_login.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_grn.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_grn.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-ldpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_zoom_out.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_imageview.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\imageview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_rounded_corner_transparent.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\rounded_corner_transparent.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-mdpi-v4\\barcode_example_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_route_card_process_list_item.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_route_card_process_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_isssuance_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_isssuance_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_return_item_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_return_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_loading_list_row_item.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\loading_list_row_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_file_download_white.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_file_download_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_qrcode_icon.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_qrcode_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_grn_verification_formtest.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\grn_verification_formtest.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_receipt_tran_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_receipt_tran_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_route_card_process_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_route_card_process_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_loading.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_loading.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_coil_receive_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_coil_receive_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_pu_loc_item.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_pu_loc_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_loading_shop_floor.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_loading_shop_floor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_putaway_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_putaway_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_fade_grid.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\fade_grid.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-xxhdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_ebizframe_theme.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_ebizframe_theme.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_coil_issue_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_coil_issue_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_dashboard_update_count.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\dashboard_update_count.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_receiving.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_receiving.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_issue_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_issue_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_issue.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_issue.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\generated\\res\\pngs\\IN_L\\debug\\drawable-hdpi\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_grnverfication.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_grnverfication.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_receiving_item_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_receiving_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_shape_notification.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\shape_notification.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_layout_grid_right_to_left.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\layout_grid_right_to_left.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_grnverification_details.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_grnverification_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_test.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_return_to_cage_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_return_to_cage_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_route_card_other_process_item_list.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_route_card_other_process_item_list.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_row_receipt_item_location.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\row_receipt_item_location.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_pickaway_cardview.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\pickaway_cardview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_design_password_eye.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_stl_splash.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_stl_splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_activity_loading_detail.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\activity_loading_detail.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\2158de36bc987e8bf572699fa5a1f196\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\72d33945bc287dd0ef532426259c0577\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_grnverification_cardview.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\layout\\grnverification_cardview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_shake.xml.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-hdpi-v4\\barcode_example_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\33d7398d3f7a51c3789ac64795b765fb\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\08b03d8a8324b6a2b410cfea6d9c78fd\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable_ic_put_away.png.flat",
+        "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\drawable\\ic_put_away.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\res\\merged\\IN_L\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\HP240-27u\\.gradle\\caches\\transforms-2\\files-2.1\\fc44e4e1014a8db8aa15e6a0a311452b\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    }
+]

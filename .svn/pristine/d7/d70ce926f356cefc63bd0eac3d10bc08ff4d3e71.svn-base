@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\ESS\\NewSTLApp\\app\\build\\intermediates\\incremental\\mergeIN_LDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\ESS\\NewSTLApp\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,8,9,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "19,124,186,258,327,68",
+                        "endColumns": "47,60,68,67,74,52",
+                        "endOffsets": "62,180,250,321,397,116"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "113,161,222,291,359,434",
+                        "endColumns": "47,60,68,67,74,52",
+                        "endOffsets": "156,217,286,354,429,482"
+                    }
+                }
+            ]
+        }
+    ]
+}

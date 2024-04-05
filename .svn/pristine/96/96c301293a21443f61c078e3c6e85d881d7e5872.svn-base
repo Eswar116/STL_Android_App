@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        card_view:contentPadding="15dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="5dp">
+
+            <RelativeLayout
+                android:id="@+id/rl_item_detail_cont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/cb_scan"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_mrir_no_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:text="@string/mrir_no"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_mrir_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_mrir_date_label"
+                    android:paddingTop="3dp"
+                    android:text="dfr434"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_mrir_date_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_mrir_no_label"
+                    android:paddingTop="3dp"
+                    android:text="@string/mrir_date"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_mrir_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_mrir_no_label"
+                    android:layout_toRightOf="@+id/tv_mrir_date_label"
+                    android:paddingTop="3dp"
+                    android:text="dfr434"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@id/rl_coil_info_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_item_detail_cont"
+                android:weightSum="2">
+
+                <TextView
+                    android:id="@+id/tv_coil_no_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="3dp"
+                    android:text="Sup. Coil No: " />
+
+                <TextView
+                    android:id="@+id/tv_coil_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@+id/tv_coil_weight_label"
+                    android:layout_toRightOf="@+id/tv_coil_no_label"
+                    android:paddingBottom="3dp"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/tv_coil_weight_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@+id/tv_coil_weight"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="@string/coil_weight" />
+
+                <TextView
+                    android:id="@+id/tv_coil_weight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="34 kg" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_coil_info_1"
+                android:weightSum="2">
+
+                <TextView
+                    android:id="@+id/tv_heat_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="3dp"
+                    android:text="Heat No: " />
+
+                <TextView
+                    android:id="@+id/tv_heat_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@+id/tv_tag_label"
+                    android:layout_toRightOf="@+id/tv_heat_label"
+                    android:paddingBottom="3dp"
+                    android:text="123" />
+
+                <TextView
+                    android:id="@+id/tv_tag_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toLeftOf="@+id/tv_tag_no"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="Tag No: " />
+
+                <TextView
+                    android:id="@+id/tv_tag_no"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/tv_grad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_heat_label"
+                    android:paddingRight="3dp"
+                    android:text="Item Code: " />
+
+                <TextView
+                    android:id="@+id/tv_route_card_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_grad"
+                    android:text="Route Card No."
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_route_card_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_route_card_no"
+                    android:text="Route Card Date"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_division"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_route_card_date"
+                    android:text="Division" />
+
+            </RelativeLayout>
+
+            <CheckBox
+                android:id="@+id/cb_scan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:checked="false"
+                android:clickable="false"
+                android:paddingRight="3dp"
+                android:text="Verified" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

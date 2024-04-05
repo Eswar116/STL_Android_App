@@ -1,0 +1,550 @@
+package com.essindia.stlapp.Activity;
+
+import android.app.Dialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.os.Bundle;
+import android.os.Parcelable;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AlertDialog;
+import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.TextView;
+
+import com.essindia.stlapp.Adapter.RouteCardOtherProcessListAdapter;
+import com.essindia.stlapp.Bean.RouteCardProcessDataBean;
+import com.essindia.stlapp.Bean.UnloadShopFloorDataBean;
+import com.essindia.stlapp.CallService.CallService;
+import com.essindia.stlapp.CallService.OnResponseFetchListener;
+import com.essindia.stlapp.Constant.BundleKey;
+import com.essindia.stlapp.Constant.ReqResParamKey;
+import com.essindia.stlapp.R;
+import com.essindia.stlapp.Utils.AlertDialogManager;
+import com.essindia.stlapp.Utils.ConnectionDetector;
+import com.essindia.stlapp.Utils.Constants;
+import com.essindia.stlapp.Utils.UserPref;
+import com.honeywell.aidc.AidcManager;
+import com.honeywell.aidc.BarcodeFailureEvent;
+import com.honeywell.aidc.BarcodeReadEvent;
+import com.honeywell.aidc.BarcodeReader;
+import com.honeywell.aidc.InvalidScannerNameException;
+import com.honeywell.aidc.ScannerUnavailableException;
+import com.honeywell.aidc.TriggerStateChangeEvent;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+
+public class RouteCardProcessActivity extends BaseActivity implements OnResponseFetchListener, View.OnClickListener, BarcodeReader.BarcodeListener, BarcodeReader.TriggerListener, RouteCardOtherProcessListAdapter.iTranNoListClick {
+
+    private TextView mTvLabelMsg;
+    private ConnectionDetector mConnectionDetector;
+    private UserPref mUserPref;
+    private RecyclerView mRvTranList;
+    private EditText mEtItemQrcode;
+    private static BarcodeReader bcr;
+    private AidcManager manager;
+    private RadioGroup radioGroup;
+    private Button btn_proceed;
+    private RadioButton rbtn_route, rbtn_machine;
+    private UnloadShopFloorDataBean unloadShopGetSet;
+    private RouteCardOtherProcessListAdapter adapter;
+    private ArrayList<RouteCardProcessDataBean> routeCardProcessList;
+    private String routeCardNo = "";
+    private String routecardDate = "";
+    private String machineCode = "";
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_route_card_process);
+        intializeXml();
+    }
+
+    private void getRouteCardProcessListData() {
+        JSONObject param = new JSONObject();
+        try {
+            String dataSp[] = unloadShopGetSet.getRoute_str().trim().split(Constants.DELIMITER);
+//            String productNo = dataSp[0];
+//            String orgId = dataSp[1];
+            routeCardNo = dataSp[2];
+            routecardDate = dataSp[3];
+
+            String machineSp[] = unloadShopGetSet.getMachine_str().trim().split(Constants.DELIMITER);
+            String processCode = machineSp[0];
+            machineCode = machineSp[1];
+            param.put(Constants.auth_Token, mUserPref.getToken());
+            param.put(Constants.ORG_ID, mUserPref.getOrgId());
+            param.put(ReqResParamKey.PROCESS_CODE, processCode);
+            param.put(ReqResParamKey.VC_USER_CODE, mUserPref.getUserName());
+            param.put(ReqResParamKey.ROUTE_CARD_NO, routeCardNo);
+            param.put(ReqResParamKey.ROUTE_CARD_DATE, routecardDate);
+
+            if (mConnectionDetector.isConnectingToInternet()) {
+//                CallService.getInstance().getResponseUsingPOST(RouteCardProcessActivity.this, Constants.ROUTE_CARD_PROCESS_LIST, param.toString(), RouteCardProcessActivity.this, Constants.RM_COIL_ISSUE_LIST_DETAIL_REQ_ID, true);
+                CallService.getInstance().getResponseUsingPOST(RouteCardProcessActivity.this, mUserPref.getBASEUrl() + Constants.ROUTE_CARD_PROCESS_LIST, param.toString(), RouteCardProcessActivity.this, Constants.RM_COIL_ISSUE_LIST_DETAIL_REQ_ID, true);
+            } else {
+                AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Please check your network connection");
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void verifyUnLoadingShopFloorListData() {
+        JSONObject param = new JSONObject();
+        try {
+            String dataSp[] = unloadShopGetSet.getRoute_str().trim().split(Constants.DELIMITER);
+            String productNo = dataSp[0];
+            String orgId = dataSp[1];
+            routeCardNo = dataSp[2];
+            routecardDate = dataSp[3];
+
+            param.put(ReqResParamKey.R_STR, unloadShopGetSet.getRoute_str());
+            param.put(ReqResParamKey.M_STR, unloadShopGetSet.getMachine_str());
+            param.put(Constants.ORG_ID, mUserPref.getOrgId());
+            param.put(ReqResParamKey.VC_USER_CODE, mUserPref.getUserName());
+
+            if (mConnectionDetector.isConnectingToInternet()) {
+//                CallService.getInstance().getResponseUsingPOST(RouteCardProcessActivity.this, Constants.VERIFY_ROUTE_CARD_PROCESS_LIST, param.toString(), RouteCardProcessActivity.this, Constants.RM_COIL_ISSUE_SCAANED_ITEM_UPDATE_REQ_ID, true);
+                CallService.getInstance().getResponseUsingPOST(RouteCardProcessActivity.this, mUserPref.getBASEUrl()+Constants.VERIFY_ROUTE_CARD_PROCESS_LIST, param.toString(), RouteCardProcessActivity.this, Constants.RM_COIL_ISSUE_SCAANED_ITEM_UPDATE_REQ_ID, true);
+            } else {
+                AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Please check your network connection");
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    public void webserviceResponse(int request_id, String response) {
+        if (response != null) {
+            try {
+                JSONObject result = new JSONObject(response);
+                System.out.println("response:" + response);
+                String statusCode = result.getString("MessageCode");
+                String message = result.getString("Message");
+                if (request_id == Constants.RM_COIL_ISSUE_LIST_DETAIL_REQ_ID) {
+                    if (statusCode.equalsIgnoreCase("0")) {
+                        JSONArray array = result.getJSONArray("Data");
+                        if (array != null && array.length() > 0) {
+                            routeCardProcessList.clear();
+                            for (int i = 0; i < array.length(); i++) {
+                                RouteCardProcessDataBean bean = new RouteCardProcessDataBean();
+                                JSONObject obj = array.optJSONObject(i);
+                                bean.setRouteNo(obj.optString(ReqResParamKey.ROUTE_NO));
+                                bean.setRouteDate(obj.optString(ReqResParamKey.ROUTE_DATE));
+                                bean.setProductCode(obj.optString(ReqResParamKey.PRODUCT_CODE));
+                                bean.setVcProcessCode(obj.optString(ReqResParamKey.VC_PROCESS_CODE));
+                                bean.setVcProcessDesc(obj.optString(ReqResParamKey.VC_PROCESS_DESC));
+                                bean.setNuOkQuantity(obj.optString(ReqResParamKey.NU_OK_QUANTITY));
+                                bean.setVcVirtualBinNo(obj.optString(ReqResParamKey.VC_VIRTUAL_BIN_NO));
+                                bean.setVcActualBinNo(obj.optString(ReqResParamKey.VC_ACTUAL_BIN_NO));
+                                bean.setNuPartWeight(obj.optString(ReqResParamKey.NU_PART_WEIGHT));
+                                routeCardProcessList.add(bean);
+                            }
+                            adapter = new RouteCardOtherProcessListAdapter(getApplicationContext(), routeCardProcessList, this);
+//                            layoutManager = new LinearLayoutManager(getApplicationContext());
+                            GridLayoutManager layoutManager = new GridLayoutManager(this, 3);
+                            mRvTranList.setLayoutManager(layoutManager);
+                            mRvTranList.setAdapter(adapter);
+                            adapter.notifyDataSetChanged();
+                            if (routeCardProcessList.size() > 0) {
+                                btn_proceed.setVisibility(View.GONE);
+                            } else {
+                                btn_proceed.setVisibility(View.VISIBLE);
+                            }
+                            //verifyUnLoadingShopFloorListData();
+                        } else {
+                            routeCardProcessList.clear();
+                            if (adapter != null) {
+                                adapter.notifyDataSetChanged();
+                            }
+                            mTvLabelMsg.setText("No pending transaction");
+                        }
+                    } else {
+                        showToast(message);
+                        goBackTranListScreen();
+                    }
+                } else if (request_id == Constants.RM_COIL_ISSUE_SCAANED_ITEM_UPDATE_REQ_ID) {
+                    mEtItemQrcode.setText("");
+                    if (statusCode.equalsIgnoreCase("0")) {
+                        getRouteCardProcessListData();
+                    } else {
+                        AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", message);
+                    }
+                } else if (request_id == Constants.RM_COIL_ISSUE_LIST_SUBMIT_REQ_ID) {
+                    if (statusCode.equalsIgnoreCase("0")) {
+                        showPostSuccessAlert("Success", "Unloading done successfully");
+                        showLongToast(message);
+                    } else {
+                        showPostFailureAlert("Alert", message);
+                        showLongToast(message);
+                    }
+                }
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        } else {
+            AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Server not responding.");
+        }
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.img_verify:
+                String itemQrCode = mEtItemQrcode.getText().toString().trim();
+                if (itemQrCode != null && !itemQrCode.isEmpty()) {
+                    isDataValid(itemQrCode);
+                } else showToast("Please Enter Item QR Code");
+                break;
+            case R.id.btn_proceed:
+                if (isEdittextvalid()) {
+                    if (isSubmitDataValid()) {
+                        verifyUnLoadingShopFloorListData();
+                    } else {
+                        showToast("Data Invalid");
+                    }
+                } else {
+                    showToast("Please select the radiobutton first");
+                }
+                break;
+        }
+    }
+
+    @Override
+    public void onBarcodeEvent(final BarcodeReadEvent barcodeReadEvent) {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                if (barcodeReadEvent.getBarcodeData() != null && !barcodeReadEvent.getBarcodeData().equals("")) {
+                    Log.v("QR_read_data", barcodeReadEvent.getBarcodeData());
+                    isDataValid(barcodeReadEvent.getBarcodeData().toString().trim());
+                } else {
+                    showToast("Item not Scanned.Try Again");
+                }
+            }
+        });
+
+    }
+
+    private boolean spliteRouteData(String data, boolean isvalid) {
+        mEtItemQrcode.setText(data);
+        String dataSp[] = data.trim().split(Constants.DELIMITER);
+        if (dataSp.length == 0) {
+            unloadShopGetSet.setRouteValid(false);
+            unloadShopGetSet.setRoute_str("");
+            isvalid = false;
+            rbtn_route.setTextColor(getResources().getColor(R.color.colorPrimary));
+            AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Qr code is empty cannot load data item");
+        } else {
+            unloadShopGetSet.setRouteValid(true);
+            unloadShopGetSet.setRoute_str(data);
+            isvalid = true;
+            rbtn_route.setTextColor(getResources().getColor(R.color.green));
+            if (isvalid) {
+                rbtn_machine.setChecked(true);
+            }
+        }
+        return isvalid;
+    }
+
+    private boolean spliteMachineData(String data, boolean isvalid) {
+        mEtItemQrcode.setText(data);
+        String dataSp[] = data.trim().split(Constants.DELIMITER);
+        if (dataSp.length == 0) {
+            unloadShopGetSet.setMachineValid(false);
+            unloadShopGetSet.setMachine_str("");
+            isvalid = false;
+            rbtn_machine.setTextColor(getResources().getColor(R.color.colorPrimary));
+            AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Qr code is empty cannot load data item");
+        } else if (dataSp.length != 2) {
+            unloadShopGetSet.setMachineValid(false);
+            unloadShopGetSet.setMachine_str("");
+            mEtItemQrcode.setText("");
+            isvalid = false;
+            rbtn_machine.setTextColor(getResources().getColor(R.color.colorPrimary));
+            AlertDialogManager.getInstance().simpleAlert(RouteCardProcessActivity.this, "Alert", "Please enter correct format !");
+        } else if (dataSp.length == 2) {
+            unloadShopGetSet.setMachineValid(true);
+            unloadShopGetSet.setMachine_str(data);
+            isvalid = true;
+            rbtn_machine.setTextColor(getResources().getColor(R.color.green));
+        }
+        return isvalid;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        try {
+            AidcManager.create(this, new AidcManager.CreatedCallback() {
+                @Override
+                public void onCreated(AidcManager aidcManager) {
+                    manager = aidcManager;
+                    try {
+                        bcr = manager.createBarcodeReader();
+                        bcr.claim();
+                        barcodeScanner();
+                    } catch (InvalidScannerNameException e) {
+                        showToast("Invalid Scanner Name Exception: " + e.getMessage());
+                    } catch (ScannerUnavailableException e) {
+                        showToast("Scanner unavailable" + e.getMessage());
+                    } catch (Exception e) {
+                        showToast("Exception: " + e.getMessage());
+                    }
+                }
+            });
+        } catch (IllegalArgumentException exp) {
+            showToast("Your device is not compatible with QR Code scanner");
+            Log.e("Loading scanner exp", exp.toString());
+        } catch (Exception exp) {
+            showToast("Your device is not compatible with QR Code scanner");
+            Log.e("Loading scanner exp1", exp.toString());
+        }
+    }
+
+    private void barcodeScanner() {
+        try {
+            if (bcr != null) {
+                bcr.addBarcodeListener(this);
+                bcr.addTriggerListener(this);
+            } else {
+                System.out.println("Device is not QR enabled");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        try {
+            if (bcr != null) {
+                bcr.release();
+            }
+        } catch (NullPointerException npe) {
+            npe.getStackTrace();
+        }
+    }
+
+
+    private void confirmAlert(String alert, String msg) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(alert);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                Intent i = new Intent(RouteCardProcessActivity.this, Dashboard.class);
+                startActivity(i);
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
+                finish();
+            }
+        });
+        builder.create();
+        builder.show();
+    }
+
+    private void proceedConfirmAlert(String alert, String msg, final int position) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(alert);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                submitData(position);
+            }
+        });
+        builder.create();
+        builder.show();
+    }
+
+    private void submitData(int position) {
+        if (routeCardProcessList != null && routeCardProcessList.size() > 0) {
+            RouteCardProcessDataBean bean = routeCardProcessList.get(position);
+            if (bean.getRouteNo() != null && !bean.getRouteNo().isEmpty() && !bean.getRouteNo().equalsIgnoreCase("null")) {
+                Intent i = new Intent(RouteCardProcessActivity.this, RouteCardProcessListItemActivity.class);
+                i.putExtra(BundleKey.TAG_OBJ, (Parcelable) bean);
+                i.putExtra(BundleKey.MACHINE_CODE, machineCode);
+                i.putExtra(BundleKey.ROUTE_CARD_NO, routeCardNo);
+                i.putExtra(BundleKey.ROUTE_CARD_DATE, routecardDate);
+                startActivityForResult(i, Constants.RM_COIL_ISSUE_LIST_SUBMIT_RESULT_REQ_ID);
+                overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
+            } else {
+                showToast("Transaction Date Is Empty");
+            }
+        }
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (routeCardProcessList.size() > 0) {
+            confirmAlert("Record is not submit!", "Do you want to go back without submit the record");
+        } else {
+            goBackTranListScreen();
+        }
+    }
+
+    private void intializeXml() {
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        mTvLabelMsg = (TextView) findViewById(R.id.tv_label_msg);
+        mRvTranList = (RecyclerView) findViewById(R.id.rv_tran_list);
+        mEtItemQrcode = (EditText) findViewById(R.id.et_item_qrcode);
+        findViewById(R.id.img_verify).setOnClickListener(this);
+        toolbar.setTitle(R.string.other_process_unloading);
+        toolbar.setTitleTextColor(ContextCompat.getColor(this, R.color.background));
+        toolbar.setNavigationIcon(R.drawable.ic_arrow_back_white_24dp);
+        setSupportActionBar(toolbar);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
+        mConnectionDetector = new ConnectionDetector(this);
+        mUserPref = new UserPref(this);
+        radioGroup = (RadioGroup) findViewById(R.id.radioGroup);
+        rbtn_route = (RadioButton) findViewById(R.id.rbtn_route);
+        rbtn_machine = (RadioButton) findViewById(R.id.rbtn_machine);
+        btn_proceed = (Button) findViewById(R.id.btn_proceed);
+        btn_proceed.setOnClickListener(this);
+        unloadShopGetSet = new UnloadShopFloorDataBean();
+        rbtn_route.setChecked(true);
+        routeCardProcessList = new ArrayList<>();
+    }
+
+    public boolean isEdittextvalid() {
+        boolean isvalid = false;
+        int id = radioGroup.getCheckedRadioButtonId();
+        if (id != R.id.rbtn_route && id != R.id.rbtn_machine) {
+            mEtItemQrcode.setEnabled(false);
+            isvalid = false;
+        } else {
+            mEtItemQrcode.setEnabled(true);
+            isvalid = true;
+        }
+        return isvalid;
+    }
+
+    public boolean isDataValid(String data) {
+        boolean isvalid = false;
+        int id = radioGroup.getCheckedRadioButtonId();
+        if (id == R.id.rbtn_route) {
+            isvalid = spliteRouteData(data, isvalid);
+        } else if (id == R.id.rbtn_machine) {
+            isvalid = spliteMachineData(data, isvalid);
+        } else {
+            showToast("Please select the radiobutton first");
+            isvalid = false;
+        }
+        return isvalid;
+    }
+
+    public boolean isSubmitDataValid() {
+        boolean isValid = false;
+        if (unloadShopGetSet.isRouteValid() && unloadShopGetSet.getRoute_str() != null && !unloadShopGetSet.getRoute_str().equals("")) {
+            isValid = true;
+        } else {
+            isValid = false;
+            showToast("Please scan route data");
+            rbtn_route.setChecked(true);
+        }
+
+        if (isValid) {
+            if (unloadShopGetSet.isMachineValid() && unloadShopGetSet.getMachine_str() != null && !unloadShopGetSet.getMachine_str().equals("")) {
+                isValid = true;
+            } else {
+                isValid = false;
+                showToast("Please scan machine data");
+                rbtn_machine.setChecked(true);
+            }
+        }
+        return isValid;
+    }
+
+    private void showPostSuccessAlert(String title, String msg) {
+        Dialog dialog = null;
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(title);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                goBackTranListScreen();
+            }
+        });
+        AlertDialog alertDialog = builder.create();
+        dialog = alertDialog;
+        dialog.show();
+    }
+
+    private void showPostFailureAlert(String title, String msg) {
+        Dialog dialog = null;
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(title);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+        AlertDialog alertDialog = builder.create();
+        dialog = alertDialog;
+        dialog.show();
+    }
+
+    private void goBackTranListScreen() {
+        Intent i = new Intent(RouteCardProcessActivity.this, Dashboard.class);
+        startActivity(i);
+        overridePendingTransition(android.R.anim.slide_in_left, android.R.anim.slide_out_right);
+        finish();
+    }
+
+
+    @Override
+    public void onTranNoListClick(int position) {
+        if (position == 0) {
+            submitData(position);
+        } else {
+            proceedConfirmAlert("ALERT", "You have not selected Bin as per FIFO . Would you like to continue ?", position);
+        }
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (resultCode == RESULT_OK) {
+            if (requestCode == Constants.RM_COIL_ISSUE_LIST_SUBMIT_RESULT_REQ_ID) {
+                goBackTranListScreen();
+            } else {
+                showToast("Items Not Submit, Please try again !");
+            }
+        } else if (resultCode == RESULT_CANCELED) {
+//            showToast("You cancelled the transaction, Please try again !");
+        }
+    }
+
+    @Override
+    public void onFailureEvent(BarcodeFailureEvent barcodeFailureEvent) {
+
+    }
+
+    @Override
+    public void onTriggerEvent(TriggerStateChangeEvent triggerStateChangeEvent) {
+
+    }
+}

@@ -1,0 +1,16 @@
+/**
+ * Automatically generated file. DO NOT MODIFY
+ */
+package com.essindia.stlapp_In_L.test;
+
+public final class BuildConfig {
+  public static final boolean DEBUG = Boolean.parseBoolean("true");
+  public static final String APPLICATION_ID = "com.essindia.stlapp_In_L.test";
+  public static final String BUILD_TYPE = "debug";
+  public static final String FLAVOR = "IN_L";
+  public static final int VERSION_CODE = 7;
+  public static final String VERSION_NAME = "1.6";
+  // Fields from product flavor: IN_L
+  public static final Boolean enableLogs = false;
+  public static final String host = "http://132.132.5.215:7101/mobapp_in_l/";
+}

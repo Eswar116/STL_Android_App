@@ -1,0 +1,157 @@
+package com.essindia.stlapp.Utils;
+
+import com.essindia.stlapp.BuildConfig;
+
+public class Constants {
+
+//    public static final String BASE_URL = "http://192.168.5.87:7101/mobapp_wms_t/";  // Jonu System ESS(Local Server)
+//    public static final String BASE_URL = "http://192.168.5.210:7101/mobapp_wms_t/";  // Jonu System ESS(Local Server)
+//    public static final String BASE_URL = "http://192.168.5.210:7101/mobapp_in_t/";  // Jonu System ESS(Local Server)
+//    public static final String BASE_URL = "http://132.132.0.193:7001/";  // STL DLF SERVER System Ip (admin:7001 Otherwise 7003)
+//    public static final String BASE_URL = "http://132.132.5.215:7003/mobapp/";  // STL DLF LIVE SERVER System Ip
+//    public static final String BASE_URL = "http://132.132.5.215:7003/mobapp_in_t/";  // STL INVENTORY TEST SERVER
+//    public static final String BASE_URL = "http://132.132.5.215:7003/mobapp_in_l/";  // STL INVENTORY LIVE SERVER
+    // public static final String BASE_URL = "http://132.132.5.215:7003/mobapp_wms_t/";  //  STL WMS TEST SERVER
+
+//    public static final String BASE_URL = "http://132.132.5.215:7101/mobapp_in_t/";  // STL INVENTORY TEST JDEV SERVER
+//    public static final String BASE_URL = "http://132.132.5.215:7101/mobapp_in_l/";  // STL INVENTORY LIVE JDEV SERVER
+//    public static final String BASE_URL = "http://132.132.5.215:7101/mobapp_wms_t/";  //  STL WMS TEST JDEV SERVER
+//    public static final String BASE_URL = "http://132.132.5.215:7101/mobapp_wms_l/";  //  STL WMS TEST JDEV SERVER
+
+    //public static final String BASE_URL = "http://10.10.2.140:7101/mobapp_in_t/";  //  STL WMS TEST JDEV SERVER
+    //public static final String BASE_URL = "http://10.10.2.140:7101/mobapp_wms_l/";  //  STL WMS TEST JDEV SERVER
+    public static final String BASE_URL = BuildConfig.host;  //  Build file URL
+    public static final String LOGIN_POST = BASE_URL + "resources/mobileapp/login";
+    public static final String LOGOUT_POST = BASE_URL + "resources/mobileapp/logout";
+    public static final String GRN_VERIFICATION_LIST = BASE_URL + "resources/mobileapp/getGrnVerification";
+    public static final String GRN_VERIFICATION_LOG_POST = BASE_URL + "resources/mobileapp/postVerificationLog";
+    public static final String PUT_AWAY_SUMMARY_DATA = BASE_URL + "resources/mobileapp/postPutAwaySummary";
+    public static final String PUT_AWAY_DOCK_LOCATION = BASE_URL + "resources/mobileapp/postPutAwayBinQty";
+    public static final String POST_PUT_AWAY_LOG = BASE_URL + "resources/mobileapp/postPutAwayLog";
+    public static final String POST_DOCK_LOCATION = BASE_URL + "resources/mobileapp/dock_Location";
+    public static final String POST_SYNC_DATA = BASE_URL + "resources/mobileapp/postSyncData";
+    public static final String POST_PUT_AWAY_SUGGESTED_AREA = BASE_URL + "resources/mobileapp/postPutAwayProcess";
+    public static final String LOADING_SUMMARY_LIST = BASE_URL + "resources/mobileapp/postAllLoadingAdviceSummary";
+    public static final String LOADING_POST_BOX_DATA = BASE_URL + "resources/mobileapp/postloadingAdviceDetails";
+    public static final String POST_PICKUP_SUMMARY = BASE_URL + "resources/mobileapp/postPickUpSummary";
+    public static final String POST_PICKUP_RESERVE_SUMMARY = BASE_URL + "resources/mobileapp/postPickUpReservQty";
+    public static final String POST_PICKUP_DETAILS = BASE_URL + "resources/mobileapp/postPickUpDetails";
+    public static final String POST_PICKUP_REASON = BASE_URL + "resources/mobileapp/postPickUpGetReason";
+    public static final String STOP_SHAKE_ICON_URL = BASE_URL + "resources/mobileapp/postNotification";
+    public static final String RM_RECEIPT_TRAN_NO_LIST = BASE_URL + "resources/mobileapp/getRmTranNoList";
+    public static final String RM_RECEIPT_TRAN_DETAIL_LIST = BASE_URL + "resources/mobileapp/getRmTranDetailList";
+    public static final String RM_RECEIPT_TRAN_DETAIL_LIST_SUBMIT = BASE_URL + "resources/mobileapp/postRmReceiptItemList";
+    public static final String RM_ISSUE_MRS_NO_LIST = BASE_URL + "resources/mobileapp/getRmIssueMrsNoList";
+    public static final String RM_ISSUE_MRS_NO_ITEM_LIST = BASE_URL + "resources/mobileapp/getRmIssueMrsNoItemList";
+    public static final String RM_ISSUE_MRS_SUBMIT = BASE_URL + "resources/mobileapp/postRmIssueItemList";
+    public static final String RM_COIL_ISSUE_TRAN_NO_LIST = BASE_URL + "resources/mobileapp/getRmCoilIssueTranNoList";
+    public static final String RM_COIL_ISSUE_TRAN_DETAIL_LIST = BASE_URL + "resources/mobileapp/getRmCoilIssueTranDetailList";
+    public static final String RM_COIL_ISSUE_UPDATESCANNED_ITEM = BASE_URL + "resources/mobileapp/coilIssueUpdateScannedItem";
+    public static final String RM_COIL_ISSUE_SUBMIT_ITEM_LIST = BASE_URL + "resources/mobileapp/coilIssueSubmitItemList";
+    public static final String RM_COIL_RECEIVE_TRAN_NO_LIST = BASE_URL + "resources/mobileapp/getRmCoilReceiveTranNoList";
+    public static final String RM_COIL_RECEIVE_TRAN_DETAIL_LIST = BASE_URL + "resources/mobileapp/getRmCoilReceiveTranDetailList";
+    public static final String RM_COIL_RECEIVE_UPDATESCANNED_ITEM = BASE_URL + "resources/mobileapp/coilReceiveUpdateScannedItem";
+    public static final String RM_COIL_RECEIVE_SUBMIT_ITEM_LIST = BASE_URL + "resources/mobileapp/coilReceiveSubmitItemList";
+
+    public static final String LOADING_SHOP_FLOOR_TRAN_NO_LIST = BASE_URL + "resources/mobileapp/getLoadingShopFloorTranNoList";
+    public static final String LOADING_SHOP_FLOOR_TRAN_DETAIL_LIST = BASE_URL + "resources/mobileapp/getLoadingShopFloorTranDetailList";
+
+    public static final String LOADING_SHOP_FLOOR_UPDATESCANNED_ITEM = BASE_URL + "resources/mobileapp/loadingShopFloorUpdateScannedItem";
+    public static final String LOADING_SHOP_FLOOR_SUBMIT_ITEM_LIST = BASE_URL + "resources/mobileapp/loadingShopFloorSubmitItemList";
+
+    public static final String SUBMIT_UNLOADING_SHOP_FLOOR_TRAN_COIL_LIST = BASE_URL + "resources/mobileapp/submitUnLoadingShopFloorTranCoilList";
+    public static final String VERIFY_UNLOADING_SHOP_FLOOR_TRAN_COIL_LIST = BASE_URL + "resources/mobileapp/verifyUnLoadingShopFloorTranCoilList";
+    public static final String UNLOADING_SHOP_FLOOR_TRAN_COIL_LIST = BASE_URL + "resources/mobileapp/getUnLoadingShopFloorTranCoilList";
+    public static final String UNLOADING_SHOP_FLOOR_TRAN_NO_LIST = BASE_URL + "resources/mobileapp/getUnLoadingShopFloorTranNoList";
+    public static final String UNLOADING_SHOP_FLOOR_TRAN_DETAIL_LIST = BASE_URL + "resources/mobileapp/getUnLoadingShopFloorTranDetailList";
+
+    public static final String UNLOADING_SHOP_FLOOR_UPDATESCANNED_ITEM = BASE_URL + "resources/mobileapp/unloadingShopFloorUpdateScannedItem";
+    public static final String UNLOADING_SHOP_FLOOR_SUBMIT_ITEM_LIST = BASE_URL + "resources/mobileapp/unloadingShopFloorSubmitItemList";
+
+
+    public static final String VERIFY_ROUTE_CARD_PROCESS_LIST = BASE_URL + "resources/mobileapp/verifyRouteCardProcessList";
+    public static final String ROUTE_CARD_PROCESS_LIST = BASE_URL + "resources/mobileapp/getRouteCardProcessList";
+    public static final String SUBMIT_ROUTE_CARD_PROCESS_LIST_ITEM = BASE_URL + "resources/mobileapp/submitRouteCardProcessListItem";
+
+
+    /*PickUp After Changes*/
+    public static final String GET_PICKUP_SUMMARY = BASE_URL + "resources/mobileapp/getPickUpSummary";
+    public static final String GET_PICKUP_LOCATION_VALIDATE = BASE_URL + "resources/mobileapp/getPickUpLocationsValidate";
+    public static final String GET_PICKUP_LOCATIONS_ITEM = BASE_URL + "resources/mobileapp/getPickUpLocationsItem";
+    public static final String GET_PICKUP_ITEM_CODE_VALIDATE = BASE_URL + "resources/mobileapp/getPickUpItemQrCodeValidate";
+
+
+    public static String USER_PREF = "user_pref";
+    public static String auth_Token = "auth_Token";
+    public static String ACTUAL_QTY = "actual_Qty";
+    public static String PICK_QR_CODE = "pick_qr_code";
+    public static String USER_DEVICE_ID = "device_id";
+    public static String AUTO_LOGIN = "auto_login";
+    public static String KEY_ITEM = "item";
+    public static String RESPONSE_DATA = "response_data";
+    public static String USERNAME = "username";
+    public static String SUGGESTED_AREA = "suggested_area";
+    public static String DELIMITER = "<>";
+    public static String NEW_DELIMITER = ",";
+
+
+    // API Request Id
+    public static final int GET_PUT_AWAY_SUMMARY_DATA_API_REQ_ID = 4;
+    public static final int PUT_AWAY_BIN_LOCATION_DATA_API_REQ_ID = 5;
+    public static final int POST_PUT_AWAY_LOG_DATA_API_REQ_ID = 6;
+    public static final int POST_DOCK_LOCATION_REQ_ID = 7;
+    public static final int PUT_AWAY_POST_SUGGESTED_AREA_REQ_ID = 8;
+    public static final int DASHBOARD_SYNC_DATA_REQ_ID = 9;
+    public static final int LOADING_SUMMARY_LIST_REQ_ID = 10;
+    public static final int PICK_UP_SUMMARY_REQ_ID = 11;
+    public static final int LOADING_POST_BOX_REQ_ID = 12;
+    public static final int PICK_UP_SUMMARY_RESERVE_ID = 13;
+    public static final int PICK_UP_DETAIL_POST_RESERVE_ID = 14;
+    public static final int PICK_UP_DETAIL_REASON_ID = 15;
+    public static final int LOADING_SUMMARY_LIST_BY_SCAN_REQ_ID = 16;
+    public static final int DASHBOARD_IS_SHAKE_REFRESH_BTN_REQ_ID = 17;
+    public static final int DASHBOARD_STOP_REFRESH_BTN_REQ_ID = 18;
+    public static final int RM_RECEIPT_LIST_REQ_ID = 19;
+    public static final int RM_RECEIPT_LIST_DETAIL_REQ_ID = 20;
+    public static final int RM_RECEIPT_LIST_SUBMIT_REQ_ID = 21;
+    public static final int RM_ISSUE_MRS_NO_LIST_REQ_ID = 22;
+    public static final int RM_ISSUE_MRS_NO_DETAIL_LIST_REQ_ID = 23;
+    public static final int RM_ISSUE_LIST_SUBMIT_REQ_ID = 24;
+    public static final int PICK_UP_VALIDATE_LOCATION_REQ_ID = 25;
+    public static final int PICK_UP_LOCATION_ITEM_REQ_ID = 26;
+    public static final int PICK_UP_ITEM_CODE_VALIDATE_REQ_ID = 27;
+    public static final int RM_COIL_ISSUE_LIST_REQ_ID = 28;
+    public static final int RM_COIL_ISSUE_LIST_DETAIL_REQ_ID = 29;
+    public static final int RM_COIL_ISSUE_SCAANED_ITEM_UPDATE_REQ_ID = 30;
+    public static final int RM_COIL_ISSUE_LIST_SUBMIT_REQ_ID = 31;
+    public static final int RM_COIL_RECEIVE_LIST_REQ_ID = 28;
+    public static final int RM_COIL_RECEIVE_LIST_DETAIL_REQ_ID = 29;
+    public static final int RM_COIL_RECEIVE_SCAANED_ITEM_UPDATE_REQ_ID = 30;
+    public static final int RM_COIL_RECEIVE_LIST_SUBMIT_REQ_ID = 31;
+
+    //    StartActivityForResult Req Id
+    public static final int RM_RECEIPT_ITEM_MATCH_RESULT_REQ_ID = 1;
+    public static final int RM_RECEIPT_ITEM_MISMATCH_RESULT_REQ_ID = 2;
+    public static final int RM_ISSUE_ITEM_MATCH_RESULT_REQ_ID = 3;
+
+    //    StartActivityForResult Req Id
+    public static final int RM_COIL_ISSUE_LIST_SUBMIT_RESULT_REQ_ID = 4;
+
+    //API paramter key
+    public static final String ORG_ID = "ORG_ID";
+    public static final String BIN_DESC = "BIN_DESC";
+    public static final String PACK_SIZE = "PACK_SIZE";
+    public static final String ITEM_CODE = "ITEM_CODE";
+    public static final String BOX_TYPE = "BOX_TYPE";
+    //Common QR code paramter
+    public static String QR_PROCESS_CODE = "processCode";  //prcoess code
+    public static String QR_STL_PART_NO = "stlPartNo";     // item code
+    public static String QR_ROUTE_CARD_NO = "routCardNo";   //GRN no
+    public static String QR_STD_QTY = "stdQty";             //packsize||packqty
+    public static String QR_ACTUAL_QTY = "actualQty";       //actual qty
+    public static String QR_REFERENCE_NO = "referenceNo";   // IR no
+    public static String QR_BOX_TYPE = "boxType";           // pack type
+    //    public static String QR_ROUTE_DATE = "routeDate";       //route date
+    public static String QR_TIME = "time";                  // time
+
+}

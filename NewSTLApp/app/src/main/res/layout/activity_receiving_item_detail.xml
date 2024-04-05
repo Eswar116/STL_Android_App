@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.essindia.stlapp.Activity.LoadingListActivity">
+
+    <LinearLayout
+        android:id="@+id/activity_put_away_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_ebizframe_theme"
+        android:orientation="vertical"
+        tools:context="com.essindia.stlapp.Activity.PutAwayDetails">
+
+        <include layout="@layout/toolbar"/>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardCornerRadius="4dp">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/rl_item_detail_cont"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@+id/cb_scan"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_grade_no_label"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingTop="3dp"
+                            android:text="@string/grade_no"
+                            android:textSize="16sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/tv_grade_no"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/tv_grade_no_label"
+                            android:layout_toRightOf="@+id/tv_grade_no_label"
+                            android:text="dfr434"
+                            android:textSize="16sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/tv_mrir_no_label"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tv_grade_no_label"
+                            android:paddingTop="5dp"
+                            android:text="@string/mrir_no"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/tv_mrir_no"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/tv_mrir_no_label"
+                            android:layout_below="@+id/tv_grade_no_label"
+                            android:layout_toRightOf="@+id/tv_mrir_no_label"
+                            android:text="434"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/tv_coil_no_label"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tv_mrir_no_label"
+                            android:paddingTop="5dp"
+                            android:text="@string/coil_no"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/tv_coil_no"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/tv_coil_no_label"
+                            android:layout_toRightOf="@+id/tv_coil_no_label"
+                            android:text="@string/coil_no"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/tv_coil_weight_label"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/tv_coil_no_label"
+                            android:paddingRight="3dp"
+                            android:paddingTop="5dp"
+                            android:text="@string/coil_weight"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/tv_coil_weight"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/tv_coil_weight_label"
+                            android:layout_toRightOf="@+id/tv_coil_weight_label"
+                            android:text="34 kg"
+                            android:textSize="16sp"/>
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:id="@+id/lnr_facility_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:visibility="gone"
+                        android:background="@color/light_gray"
+                        android:orientation="vertical">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cv_sp_cont"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="1dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            app:contentPadding="3dp">
+
+                            <Spinner
+                                android:id="@+id/sp_location"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Selected Product Name"
+                                android:textSize="16sp"/>
+
+                        </android.support.v7.widget.CardView>
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:paddingTop="10dp">
+
+                        <android.support.design.widget.TextInputLayout
+                            android:id="@+id/ti_loading_qrcode"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_toLeftOf="@+id/tv_or">
+
+                            <EditText
+                                android:id="@+id/et_loction_qrcode"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:hint="Scan Location QR Code"
+                                android:inputType="text"
+                                android:paddingLeft="5dp"
+                                android:textSize="15dp"/>
+                        </android.support.design.widget.TextInputLayout>
+
+                        <TextView
+                            android:id="@+id/tv_or"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_toLeftOf="@+id/img_verify"
+                            android:paddingLeft="8dp"
+                            android:paddingRight="8dp"
+                            android:text="(OR)"
+                            android:textColor="@color/colorPrimary"
+                            android:textStyle="bold"/>
+
+                        <ImageView
+                            android:id="@+id/img_verify"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:paddingLeft="10dp"
+                            android:src="@drawable/ic_qrcode_icon"/>
+
+                    </RelativeLayout>
+
+                    <Button
+                        android:id="@+id/btn_submit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@color/colorPrimary"
+                        android:paddingLeft="40dp"
+                        android:paddingRight="40dp"
+                        android:text="DONE"
+                        android:textColor="@color/white"/>
+
+                </LinearLayout>
+            </ScrollView>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

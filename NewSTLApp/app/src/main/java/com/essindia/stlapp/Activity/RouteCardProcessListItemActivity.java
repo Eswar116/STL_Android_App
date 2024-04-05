@@ -1,0 +1,181 @@
+package com.essindia.stlapp.Activity;
+
+import android.app.Activity;
+import android.app.Dialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AlertDialog;
+import android.support.v7.widget.Toolbar;
+import android.view.View;
+import android.widget.TextView;
+
+import com.essindia.stlapp.Bean.RouteCardProcessDataBean;
+import com.essindia.stlapp.CallService.CallService;
+import com.essindia.stlapp.CallService.OnResponseFetchListener;
+import com.essindia.stlapp.Constant.BundleKey;
+import com.essindia.stlapp.Constant.ReqResParamKey;
+import com.essindia.stlapp.R;
+import com.essindia.stlapp.Utils.AlertDialogManager;
+import com.essindia.stlapp.Utils.ConnectionDetector;
+import com.essindia.stlapp.Utils.Constants;
+import com.essindia.stlapp.Utils.UserPref;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+public class RouteCardProcessListItemActivity extends BaseActivity implements OnResponseFetchListener {
+
+    TextView tv_route_no, tv_route_date, tv_vc_product_code, tv_vc_process_desc, tv_nu_ok_qty, tv_virtual_bin_no, tv_actual_bin_no, tv_nu_part_weight;
+    RouteCardProcessDataBean bean;
+    private UserPref mUserPref;
+    private ConnectionDetector mConnectionDetector;
+    private String routeCardNo = "";
+    private String routecardDate = "";
+    private String machineCode = "";
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_route_card_process_list_item);
+        intializeXml();
+        bean = this.getIntent().getParcelableExtra(BundleKey.TAG_OBJ);
+        routeCardNo = this.getIntent().getStringExtra(BundleKey.ROUTE_CARD_NO);
+        routecardDate = this.getIntent().getStringExtra(BundleKey.ROUTE_CARD_DATE);
+        machineCode = this.getIntent().getStringExtra(BundleKey.MACHINE_CODE);
+        if (bean != null) {
+            prepareData();
+        }
+        findViewById(R.id.btn_submit).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (bean != null) {
+                    submitUnLoadingShopFloorCoilListData();
+                } else {
+                    showToast("Invalid Data");
+                }
+
+            }
+        });
+    }
+
+
+    private void prepareData() {
+        tv_route_no.setText(bean.getRouteNo());
+        tv_route_date.setText(bean.getRouteDate());
+        tv_vc_product_code.setText(bean.getProductCode());
+        tv_vc_process_desc.setText(bean.getVcProcessDesc());
+        tv_nu_ok_qty.setText("Nu Ok Quantity : " + bean.getNuOkQuantity());
+        tv_nu_part_weight.setText("Part Weight : " + bean.getNuPartWeight());
+        tv_virtual_bin_no.setText("VC Virtual bin no.:" + bean.getVcVirtualBinNo());
+        tv_actual_bin_no.setText("VC Actual bin no.:" + bean.getVcActualBinNo());
+    }
+
+    private void submitUnLoadingShopFloorCoilListData() {
+        JSONObject param = new JSONObject();
+        try {
+            param.put(Constants.ORG_ID, mUserPref.getOrgId());
+            param.put(ReqResParamKey.ROUTE_CARD_NO, routeCardNo);
+            param.put(ReqResParamKey.ROUTE_CARD_DATE, routecardDate);
+            param.put(ReqResParamKey.PROCESS_CODE, bean.getVcProcessCode());
+            param.put(ReqResParamKey.MACHINE_CODE, machineCode);
+            param.put(ReqResParamKey.VC_VIRTUAL_BIN_NO, bean.getVcVirtualBinNo());
+            param.put(ReqResParamKey.VC_ACTUAL_BIN_NO, bean.getVcActualBinNo());
+
+            if (mConnectionDetector.isConnectingToInternet()) {
+//                CallService.getInstance().getResponseUsingPOST(RouteCardProcessListItemActivity.this, Constants.SUBMIT_ROUTE_CARD_PROCESS_LIST_ITEM, param.toString(), RouteCardProcessListItemActivity.this, Constants.RM_COIL_ISSUE_LIST_SUBMIT_REQ_ID, true);
+                CallService.getInstance().getResponseUsingPOST(RouteCardProcessListItemActivity.this, mUserPref.getBASEUrl()+Constants.SUBMIT_ROUTE_CARD_PROCESS_LIST_ITEM, param.toString(), RouteCardProcessListItemActivity.this, Constants.RM_COIL_ISSUE_LIST_SUBMIT_REQ_ID, true);
+            } else {
+                AlertDialogManager.getInstance().simpleAlert(RouteCardProcessListItemActivity.this, "Alert", "Please check your network connection");
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
+    public void webserviceResponse(int request_id, String response) {
+        if (response != null) {
+            try {
+                JSONObject result = new JSONObject(response);
+                System.out.println("response:" + response);
+                String statusCode = result.getString("MessageCode");
+                String message = result.getString("Message");
+                if (request_id == Constants.RM_COIL_ISSUE_LIST_SUBMIT_REQ_ID) {
+                    if (statusCode.equalsIgnoreCase("0")) {
+                        showPostSuccessAlert("Success", "Bin has been unloaded Successfully.");
+                        showLongToast(message);
+                    } else {
+                        showPostFailureAlert("Alert", message);
+                        showLongToast(message);
+                    }
+                }
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        } else {
+            AlertDialogManager.getInstance().simpleAlert(RouteCardProcessListItemActivity.this, "Alert", "Server not responding.");
+        }
+    }
+
+
+    private void intializeXml() {
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitle(R.string.other_process_unloading);
+        toolbar.setTitleTextColor(ContextCompat.getColor(this, R.color.background));
+        setSupportActionBar(toolbar);
+        tv_route_no = (TextView) findViewById(R.id.tv_route_no);
+        tv_route_date = (TextView) findViewById(R.id.tv_route_date);
+        tv_vc_product_code = (TextView) findViewById(R.id.tv_vc_product_code);
+        tv_vc_process_desc = (TextView) findViewById(R.id.tv_vc_process_desc);
+        tv_nu_ok_qty = (TextView) findViewById(R.id.tv_nu_ok_qty);
+        tv_nu_part_weight = (TextView) findViewById(R.id.tv_nu_part_weight);
+        tv_virtual_bin_no = (TextView) findViewById(R.id.tv_virtual_bin_no);
+        tv_actual_bin_no = (TextView) findViewById(R.id.tv_actual_bin_no);
+        mConnectionDetector = new ConnectionDetector(this);
+        mUserPref = new UserPref(this);
+    }
+
+    private void submitRecord(boolean isSuccess) {
+        Intent intent = new Intent();
+        if (isSuccess) {
+            setResult(Activity.RESULT_OK, intent);
+        } else {
+            setResult(Activity.RESULT_CANCELED, intent);
+        }
+        finish();
+    }
+
+    private void showPostSuccessAlert(String title, String msg) {
+        Dialog dialog = null;
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(title);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                submitRecord(true);
+            }
+        });
+        AlertDialog alertDialog = builder.create();
+        dialog = alertDialog;
+        dialog.show();
+    }
+
+    private void showPostFailureAlert(String title, String msg) {
+        Dialog dialog = null;
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(title);
+        builder.setMessage(msg);
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+        AlertDialog alertDialog = builder.create();
+        dialog = alertDialog;
+        dialog.show();
+    }
+}
